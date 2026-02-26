@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Luffy11323
-- 👀 I’m interested & wanted to make a game no one ever think of. 
-- 🌱 I’m currently learning Computer Sciences. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Luffy11323
 
-<!---
-Luffy11323/Luffy11323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Future Innovator | 💻 Web Developer → 📱 App Developer
+🤖 Automations • Agents • Web Scraping
+Creative Builder | Always Learning
+
+## About Me
+I build systems to learn, automate workflows, and explore new ideas.
+Started with web development, expanded into application development, and now focused on automation, intelligent agents, and data scraping.
+
+## Core Work
+* Automation systems
+* Agent-based tools
+* Web development
+* Application development
+* Web scraping & data extraction
+
+## Currently Learning
+* Computer Science fundamentals
+* Advanced automation concepts
+* Intelligent systems
+
+## Collaboration
+Open to working with builders interested in automation, tools, and practical software.
+
+## Reach Me
+GitHub: https://github.com/Luffy11323
+> Build smart. Keep learning.
