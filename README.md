@@ -22,7 +22,7 @@ I enjoy turning ideas into practical software, solving real-world problems, and 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript
 - **Mobile:** Flutter, Dart, React Native
 - **Backend:** Python, PHP, Node.js
-- **Databases:** MySQL, Firebase
+- **Databases:** MySQL, Firebase, MariaDB
 - **Other Interests:** ERP Systems, AI Agents, Automation, Web Scraping, APIs
 
 ## 🏢 My Portfolio
