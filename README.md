@@ -1,29 +1,60 @@
-👋 Hi, I'm Luffy11323
+# 👋 Hi, I'm Luffy11323
 
-🚀 Future Innovator | 💻 Web Developer → 📱 App Developer
-🤖 Automations • Agents • Web Scraping
-Creative Builder | Always Learning
+### 🚀 Software Developer | Creative Builder | Always Learning
 
-## About Me
-I build systems to learn, automate workflows, and explore new ideas.
-Started with web development, expanded into application development, and now focused on automation, intelligent agents, and data scraping.
+I build digital products, business systems, and intelligent solutions.
 
-## Core Work
-* Automation systems
-* Agent-based tools
-* Web development
-* Application development
-* Web scraping & data extraction
+My journey started with web development and expanded into mobile applications, enterprise solutions, automation, AI agents, and data-driven tools.
 
-## Currently Learning
-* Computer Science fundamentals
-* Advanced automation concepts
-* Intelligent systems
+I enjoy turning ideas into practical software, solving real-world problems, and continuously exploring emerging technologies.
 
-## Collaboration
-Open to working with builders interested in automation, tools, and practical software.
+## 💻 What I Work On
 
-## Reach Me
-GitHub: https://github.com/Luffy11323
-Live on: www.akatechsolution.com
-> Build smart. Keep learning.
+- 🌐 **Web Development** — Modern websites, web applications, and scalable digital platforms.
+- 📱 **App Development** — Cross-platform mobile applications using Flutter and React Native.
+- 🏢 **ERP Solutions** — Enterprise systems, business process integration, and workflow management.
+- 🤖 **Automation & AI** — Workflow automation, AI integration, and intelligent agents.
+- 🔎 **Web Scraping** — Data extraction, processing, and automation.
+- 🎨 **Digital Experiences** — UI/UX, creative solutions, and digital product development.
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript
+- **Mobile:** Flutter, Dart, React Native
+- **Backend:** Python, PHP, Node.js
+- **Databases:** MySQL, Firebase
+- **Other Interests:** ERP Systems, AI Agents, Automation, Web Scraping, APIs
+
+## 🏢 My Portfolio
+
+I'm building and showcasing digital solutions through **Kodessy**.
+
+🌐 Portfolio: https://kodessy.com
+
+Areas of work:
+- Web & Mobile Applications
+- Enterprise Resource Planning (ERP)
+- Automation & AI Integration
+- SEO & Digital Solutions
+- UI/UX & Digital Experiences
+
+## 📚 Currently Exploring
+
+- Advanced Software Engineering
+- Enterprise System Architecture
+- AI Agents & Intelligent Automation
+- Backend Development & API Integration
+- Data Engineering and Web Scraping
+
+## 🤝 Collaboration
+
+Always open to connecting with developers, creators, and problem-solvers.
+
+Interested in building practical software, exploring new technologies, and collaborating on meaningful projects.
+
+## 📬 Connect With Me
+
+- **GitHub:** https://github.com/Luffy11323
+- **Portfolio:** https://kodessy.com
+
+> Build smart. Think creatively. Keep learning.
